@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped MOVR",
+  "symbol": "WMOVR",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://moonriver.moonscan.io/token/0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+  "id": "0x98878B06940aE243284CA214f92Bb71a2b032B8A"
+}
