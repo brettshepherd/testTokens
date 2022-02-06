@@ -1,0 +1,14 @@
+{
+  "name": "PancakeSwap Token",
+  "symbol": "Cake",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+  "id": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+}
